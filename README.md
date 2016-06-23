@@ -1,0 +1,1 @@
+A simple way of grabbing track info from Google Music radio stations. This can be extended to generate Google Music playlists, which is useful in countries where radio stations cannot be downloaded. (Thanks, Google.)

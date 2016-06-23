@@ -31,13 +31,3 @@ else:
         formatted[t['artist']] = t['title']
 
     pprint.pprint(formatted)
-
-
-
-    
-
-    
-
-    
-
-
